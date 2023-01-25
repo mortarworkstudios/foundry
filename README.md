@@ -12,7 +12,6 @@ Foundry Related VTT items and code.
 #### Quality of Life
 
 - https://github.com/shemetz/pf2e-modifiers-matter
-- https://foundryvtt.com/packages/pf2e-persistent-damage
 - https://foundryvtt.com/packages/pf2-flat-check
 - https://foundryvtt.com/packages/pf2e-rsc
 - https://github.com/jamespdaily/pf2e-sheet-skill-actions
