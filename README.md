@@ -38,6 +38,9 @@ Foundry Related VTT items and code.
 - https://github.com/Oromis/foundry-combat-focus
 - https://github.com/MKamysz/combat-effects-tracker
 
+#### Debugging
+- https://github.com/Moerill/fvtt-find-the-culprit
+
 #### Meta
 
 - https://github.com/ruipin/fvtt-lib-wrapper
